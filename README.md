@@ -12,6 +12,9 @@ The strategy is very naive and as expected the average profit is negative for th
 
 
 # Instructions
+
+You require a BInance Exchange API key and Secret key in a readable file format within the directory.
+
 ```python
 pip install -r requirements.txt
 python binanceMM.py
